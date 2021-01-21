@@ -15,4 +15,10 @@ After that go on the directory
 and launch ther server with -npm start
 
 
-To start the public interface do the same that for the server.
+To start the public interface create a directory with :
+the nodes modules
+the public directory
+the package etc...
+the src directory
+
+and start it with -npm start
