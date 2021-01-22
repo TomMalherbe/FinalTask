@@ -22,3 +22,5 @@ the package etc...
 the src directory
 
 and start it with -npm start
+
+The code on the main is the src directory but I don't know how to change it
